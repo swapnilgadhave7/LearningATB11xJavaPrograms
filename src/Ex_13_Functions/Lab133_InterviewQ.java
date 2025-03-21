@@ -10,7 +10,7 @@ public class Lab133_InterviewQ {
     }
 
     public static void main(int args) {
-        return 10;
+
     }
 
     public static void main(float args) {
