@@ -2,7 +2,7 @@ package Tasks;
 
 public class Class_Person {
     public static void main(String[] args) {
-        Person ref1= new Person();
+        Person2 ref1= new Person2();
         ref1.setname("Tara");
         ref1.eat();
         ref1.speak("English");
@@ -13,7 +13,7 @@ public class Class_Person {
         System.out.println(ref1.name+" "+hobbyofperson);
     }
 }
-class Person
+class Person2
 {
     String name;
     String age;
